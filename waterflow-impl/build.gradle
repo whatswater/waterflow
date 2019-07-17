@@ -1,0 +1,4 @@
+dependencies {
+    compile project(':waterflow-api')
+    compile project(':waterflow-fetcher')
+}

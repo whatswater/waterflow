@@ -1,0 +1,6 @@
+rootProject.name = 'waterflow'
+
+include 'waterflow-api'
+include 'waterflow-fetcher'
+include 'waterflow-impl'
+
